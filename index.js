@@ -1,4 +1,10 @@
 // Code your solutions in this file
+
+function writeCards(){
+  
+}
+
+
 function countdown(item){
   while(item > 0){
     console.log(item)
