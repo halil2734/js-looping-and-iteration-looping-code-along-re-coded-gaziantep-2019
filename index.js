@@ -1,7 +1,7 @@
 // Code your solutions in this file
 
 function writeCards(names,event){
-  let 
+  let Cards = [];
   for(let names=0; )
   
 }
